@@ -7,9 +7,11 @@ Hi! I am a young developer with a great passion for programming and technology. 
 * ✉️  You can contact me at [narkoznartov@mail.ru](mailto:narkoznartov@mail.ru)
 
 <a href="https://www.github.com/AlexPy-hub" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AlexPy-hub?logo=github&style=for-the-badge&color=000000&labelColor=000000" /></a>
+src="https://i.pinimg.com/originals/c9/67/de/c967dee22a4f1a651684bb0fd4ab49a8.gif" /></a>
 
 ### Skills
+<a href="https://www.github.com/AlexPy-hub" target="_blank" rel="noreferrer"><img
+src="https://i.pinimg.com/originals/03/f9/c9/03f9c952418ae59bf3a46efa83717710.gif" /></a>
 
 
 <p align="left">
