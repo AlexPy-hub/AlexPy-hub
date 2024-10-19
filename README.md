@@ -1,13 +1,13 @@
-Привет, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Алекс
-==================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex
+============================================================================================================================
 
-Привет! Я молодой разработчик, страстно увлечённый программированием и технологиями. С 13 лет я занимаюсь разработкой и изучением различных языков программирования, и с тех пор мои навыки только растут. Больше всего меня интересует веб-разработка, но я также увлекаюсь мобильными приложениями и играми.
+Hi! I am a young developer with a great passion for programming and technology. Since I was 13 years old, I have been developing and learning various programming languages, and since then my skills have only been growing. My main interest is web development, but I'm also passionate about mobile apps and games.
 
-* 🌍 Я живу в Японии
-* ✉️ Вы можете связаться со мной по адресу [narkoznartov@mail.ru](mailto:narkoznartov@mail.ru)
+* 🌍  I'm based in japan
+* ✉️  You can contact me at [narkoznartov@mail.ru](mailto:narkoznartov@mail.ru)
 
 <a href="https://www.github.com/AlexPy-hub" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AlexPy-hub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/AlexPy-hub?logo=github&style=for-the-badge&color=000000&labelColor=000000" /></a>
 
 ### Skills
 
@@ -25,6 +25,6 @@ src="https://img.shields.io/github/followers/AlexPy-hub?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AlexPy-hub"><img src="https://github-readme-stats.vercel.app/api?username=AlexPy-hub&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlexPy-hub's GitHub stats" /></a>
+<a href="http://www.github.com/AlexPy-hub"><img src="https://github-readme-stats.vercel.app/api?username=AlexPy-hub&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="AlexPy-hub's GitHub stats" /></a>
 
-<a href="https://github.com/AlexPy-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPy-hub&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AlexPy-hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPy-hub&langs_count=10&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
